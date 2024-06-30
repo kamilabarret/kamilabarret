@@ -1,16 +1,24 @@
-## Hi there 👋
+## Oi, Kamila Barreto aqui :) 
+Sou designer digital e atualmente estou fazendo curso de programação na Alura
 
-<!--
-**kamilabarret/kamilabarret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•👩🏼‍🎓Formada em **mySQL** pela Udemy 
 
-Here are some ideas to get you started:
+•🐱 Apaixonada por **gatos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•🖥️ Atualmente mais focada em:
+<div display="inline">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ 
+</div>
+
+##
+
+### Você também me encontra em:
+&nbsp;<a href="https://br.linkedin.com/in/lucas-leal-santos](https://www.linkedin.com/in/kamila-barreto-34ab43176/)">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
+
+
